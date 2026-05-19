@@ -13,4 +13,4 @@ order: 5
 
 Formation sur la protection des données personnelles dans le cadre professionnel (RGPD).
 
-[📄 Voir l'attestation](../assets/docs/Attestation_de_suivi.pdf)
+[📄 Voir l'attestation](../assets/Attestation_de_suivi.pdf)
