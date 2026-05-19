@@ -21,3 +21,10 @@ Remplissez le formulaire ci-dessous et je vous répondrai le plus tôt possible.
   <textarea name="message" rows="6" required></textarea><br><br>
   <button type="submit">Envoyer</button>
 </form>
+---
+
+## Restons connectés !
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rejoignez_moi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sullivan-lefebvre-8b81aa384/)
+
+© 2026 | Portfolio Sullivan Lefebvre
