@@ -225,3 +225,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
