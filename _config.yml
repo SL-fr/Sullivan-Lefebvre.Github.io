@@ -229,3 +229,5 @@ kramdown:
   input: GFM
   hard_wrap: false
   parse_block_html: true
+footer:
+  powered_by: false
