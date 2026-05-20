@@ -33,17 +33,12 @@ order: 2
 
 ## Niveau de compétences
 
-**Linux**
-<div style="background:#333;border-radius:10px;height:20px;width:100%;margin-bottom:15px;"><div style="background:#2E86AB;border-radius:10px;height:20px;width:60%;text-align:center;color:white;font-size:12px;line-height:20px;">60%</div></div>
+<div style="margin-bottom:15px"><strong>Linux</strong><div style="background:#333;border-radius:10px;height:20px;width:100%"><div style="background:#2E86AB;border-radius:10px;height:20px;width:60%;text-align:center;color:white;font-size:12px;line-height:20px">60%</div></div></div>
 
-**Windows Server**
-<div style="background:#333;border-radius:10px;height:20px;width:100%;margin-bottom:15px;"><div style="background:#2E86AB;border-radius:10px;height:20px;width:70%;text-align:center;color:white;font-size:12px;line-height:20px;">70%</div></div>
+<div style="margin-bottom:15px"><strong>Windows Server</strong><div style="background:#333;border-radius:10px;height:20px;width:100%"><div style="background:#2E86AB;border-radius:10px;height:20px;width:70%;text-align:center;color:white;font-size:12px;line-height:20px">70%</div></div></div>
 
-**Réseau (Cisco)**
-<div style="background:#333;border-radius:10px;height:20px;width:100%;margin-bottom:15px;"><div style="background:#2E86AB;border-radius:10px;height:20px;width:65%;text-align:center;color:white;font-size:12px;line-height:20px;">65%</div></div>
+<div style="margin-bottom:15px"><strong>Réseau Cisco</strong><div style="background:#333;border-radius:10px;height:20px;width:100%"><div style="background:#2E86AB;border-radius:10px;height:20px;width:65%;text-align:center;color:white;font-size:12px;line-height:20px">65%</div></div></div>
 
-**Proxmox**
-<div style="background:#333;border-radius:10px;height:20px;width:100%;margin-bottom:15px;"><div style="background:#2E86AB;border-radius:10px;height:20px;width:50%;text-align:center;color:white;font-size:12px;line-height:20px;">50%</div></div>
+<div style="margin-bottom:15px"><strong>Proxmox</strong><div style="background:#333;border-radius:10px;height:20px;width:100%"><div style="background:#2E86AB;border-radius:10px;height:20px;width:50%;text-align:center;color:white;font-size:12px;line-height:20px">50%</div></div></div>
 
-**Cybersécurité**
-<div style="background:#333;border-radius:10px;height:20px;width:100%;margin-bottom:15px;"><div style="background:#2E86AB;border-radius:10px;height:20px;width:55%;text-align:center;color:white;font-size:12px;line-height:20px;">55%</div></div>
+<div style="margin-bottom:15px"><strong>Cybersécurité</strong><div style="background:#333;border-radius:10px;height:20px;width:100%"><div style="background:#2E86AB;border-radius:10px;height:20px;width:55%;text-align:center;color:white;font-size:12px;line-height:20px">55%</div></div></div>
