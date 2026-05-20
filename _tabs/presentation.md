@@ -28,4 +28,8 @@ Accompagnement, Soins et Services à la Personne.
 ## Me contacter
 <a href="https://sl-fr.github.io/Sullivan-Lefebvre.Github.io/assets/CV_Sullivan_Lefebvre.pdf" target="_blank" style="display:inline-block; background-color:#E87722; color:white; padding:12px 25px; border-radius:25px; font-weight:bold; text-decoration:none;">Consulter mon CV</a>
 
+<a href="https://www.linkedin.com/in/sullivan-lefebvre-8b81aa384/" target="_blank" style="display:inline-block; background-color:#0077B5; color:white; padding:12px 25px; border-radius:25px; font-weight:bold; text-decoration:none; margin-left:10px;">💼 Mon LinkedIn</a>
+
+<a href="https://github.com/SL-fr" target="_blank" style="display:inline-block; background-color:#333; color:white; padding:12px 25px; border-radius:25px; font-weight:bold; text-decoration:none; margin-left:10px;">🐙 Mon GitHub</a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sullivan_Lefebvre-blue)](https://www.linkedin.com/in/sullivan-lefebvre-8b81aa384/)
