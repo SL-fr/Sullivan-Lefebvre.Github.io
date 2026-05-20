@@ -27,4 +27,5 @@ Accompagnement, Soins et Services à la Personne.
 
 ## Me contacter
 <a href="https://sl-fr.github.io/Sullivan-Lefebvre.Github.io/assets/CV_Sullivan_Lefebvre.pdf" target="_blank" style="display:inline-block; background-color:#E87722; color:white; padding:12px 25px; border-radius:25px; font-weight:bold; text-decoration:none;">Consulter mon CV</a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sullivan_Lefebvre-blue)](https://www.linkedin.com/in/sullivan-lefebvre-8b81aa384/)
