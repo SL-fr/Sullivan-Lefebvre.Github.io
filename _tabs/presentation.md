@@ -26,5 +26,5 @@ Accompagnement, Soins et Services à la Personne.
 - Curiosité technologique
 
 ## Me contacter
-[📄 Télécharger mon CV](../assets/CV_Sullivan_Lefebvre.pdf)
+[📄 Consulter mon CV](https://sl-fr.github.io/Sullivan-Lefebvre.Github.io/assets/CV_Sullivan_Lefebvre.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sullivan_Lefebvre-blue)](https://www.linkedin.com/in/sullivan-lefebvre-8b81aa384/)
