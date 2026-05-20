@@ -33,12 +33,17 @@ order: 2
 
 ## Niveau de compétences
 
-<div style="margin-bottom:15px"><strong>Linux</strong><div style="background:#333;border-radius:10px;height:20px;width:100%"><div style="background:#2E86AB;border-radius:10px;height:20px;width:60%;text-align:center;color:white;font-size:12px;line-height:20px">60%</div></div></div>
+<p><strong>Linux</strong></p>
+<progress value="60" max="100" style="width:100%;height:20px;"></progress> 60%
 
-<div style="margin-bottom:15px"><strong>Windows Server</strong><div style="background:#333;border-radius:10px;height:20px;width:100%"><div style="background:#2E86AB;border-radius:10px;height:20px;width:70%;text-align:center;color:white;font-size:12px;line-height:20px">70%</div></div></div>
+<p><strong>Windows Server</strong></p>
+<progress value="70" max="100" style="width:100%;height:20px;"></progress> 70%
 
-<div style="margin-bottom:15px"><strong>Réseau Cisco</strong><div style="background:#333;border-radius:10px;height:20px;width:100%"><div style="background:#2E86AB;border-radius:10px;height:20px;width:65%;text-align:center;color:white;font-size:12px;line-height:20px">65%</div></div></div>
+<p><strong>Réseau Cisco</strong></p>
+<progress value="65" max="100" style="width:100%;height:20px;"></progress> 65%
 
-<div style="margin-bottom:15px"><strong>Proxmox</strong><div style="background:#333;border-radius:10px;height:20px;width:100%"><div style="background:#2E86AB;border-radius:10px;height:20px;width:50%;text-align:center;color:white;font-size:12px;line-height:20px">50%</div></div></div>
+<p><strong>Proxmox</strong></p>
+<progress value="50" max="100" style="width:100%;height:20px;"></progress> 50%
 
-<div style="margin-bottom:15px"><strong>Cybersécurité</strong><div style="background:#333;border-radius:10px;height:20px;width:100%"><div style="background:#2E86AB;border-radius:10px;height:20px;width:55%;text-align:center;color:white;font-size:12px;line-height:20px">55%</div></div></div>
+<p><strong>Cybersécurité</strong></p>
+<progress value="55" max="100" style="width:100%;height:20px;"></progress> 55%
