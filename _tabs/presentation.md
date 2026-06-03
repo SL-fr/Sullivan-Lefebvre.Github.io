@@ -2,6 +2,7 @@
 title: Présentation
 icon: fas fa-user
 order: 1
+permalink: /presentation/
 ---
 
 ## Qui suis-je ?
