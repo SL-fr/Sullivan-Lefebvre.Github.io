@@ -4,7 +4,6 @@ title: Stages
 icon: fas fa-briefcase
 order: 5
 ---
-
 # Stage de 1ère année — BTS SIO SISR
 
 ## Assistant Administrateur Réseau et Système
