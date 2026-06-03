@@ -2,7 +2,7 @@
 layout: page
 title: Stages
 icon: fas fa-briefcase
-order: 5
+order: 3
 ---
 # Stage de 1ère année — BTS SIO SISR
 
