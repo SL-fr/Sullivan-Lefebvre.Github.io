@@ -147,8 +147,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-url: "https://Sullivan-Lefebvre.Github.io"
-baseurl: ""
+baseurl: "/Sullivan-Lefebvre.Github.io"
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
