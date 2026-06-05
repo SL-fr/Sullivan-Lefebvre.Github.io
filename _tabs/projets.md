@@ -4,17 +4,8 @@ icon: fas fa-project-diagram
 order: 3
 ---
 
-<style>
-  .tp-section-title {
-    text-align: center;
-    font-size: 1rem;
-    font-weight: 600;
-    color: #aaa;
-    margin: 10px 0 15px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-  }
 
+<style>
   .tp-category-title {
     text-align: center;
     font-size: 1.15rem;
@@ -48,7 +39,7 @@ order: 3
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 10px;
+    gap: 8px;
   }
 
   .tp-card:hover {
@@ -69,11 +60,18 @@ order: 3
     color: #1a1a1a;
   }
 
+  .tp-card-desc {
+    font-size: 0.78rem;
+    color: #555;
+    line-height: 1.4;
+  }
+
   .tp-badges {
     display: flex;
     gap: 6px;
     flex-wrap: wrap;
     justify-content: center;
+    margin-top: 4px;
   }
 
   .badge {
@@ -148,11 +146,26 @@ order: 3
   </div>
 
   <div class="tp-card">
-    <img src="/assets/tp/routage.png" alt="Routage" onerror="this.style.display='none'">
-    <div class="tp-card-title">Routage statique / dynamique / inter-VLAN</div>
+    <img src="/assets/tp/routage-statique.png" alt="Routage statique" onerror="this.style.display='none'">
+    <div class="tp-card-title">Routage statique</div>
     <div class="tp-badges">
-      <a href="/assets/pdf/tp-routage.pdf" class="badge badge-pdf">PDF</a>
-      <a href="/assets/pkt/tp-routage.pkt" class="badge badge-pt">Packet Tracer</a>
+      <a href="/assets/pdf/tp-routage-statique.pdf" class="badge badge-pdf">PDF</a>
+    </div>
+  </div>
+
+  <div class="tp-card">
+    <img src="/assets/tp/routage-dynamique.png" alt="Routage dynamique" onerror="this.style.display='none'">
+    <div class="tp-card-title">Routage dynamique</div>
+    <div class="tp-badges">
+      <a href="/assets/pdf/tp-routage-dynamique.pdf" class="badge badge-pdf">PDF</a>
+    </div>
+  </div>
+
+  <div class="tp-card">
+    <img src="/assets/tp/inter-vlan.png" alt="Inter-VLAN" onerror="this.style.display='none'">
+    <div class="tp-card-title">Routage inter-VLAN</div>
+    <div class="tp-badges">
+      <a href="/assets/pdf/tp-inter-vlan.pdf" class="badge badge-pdf">PDF</a>
     </div>
   </div>
 
@@ -166,6 +179,7 @@ order: 3
   <div class="tp-card">
     <img src="/assets/tp/bonnes-pratiques.png" alt="Bonnes pratiques" onerror="this.style.display='none'">
     <div class="tp-card-title">Bonnes pratiques</div>
+    <div class="tp-card-desc">Étude des règles essentielles de cybersécurité : mots de passe robustes, mises à jour, sauvegardes et comportements sûrs face aux cybermenaces.</div>
     <div class="tp-badges">
       <a href="/assets/pdf/cyber-bonnes-pratiques.pdf" class="badge badge-pdf">PDF</a>
     </div>
@@ -174,6 +188,7 @@ order: 3
   <div class="tp-card">
     <img src="/assets/tp/byod.png" alt="BYOD" onerror="this.style.display='none'">
     <div class="tp-card-title">BYOD</div>
+    <div class="tp-card-desc">Analyse des enjeux liés à l'utilisation d'appareils personnels en milieu professionnel : risques, politique de sécurité et conformité RGPD.</div>
     <div class="tp-badges">
       <a href="/assets/pdf/cyber-byod.pdf" class="badge badge-pdf">PDF</a>
     </div>
@@ -182,6 +197,7 @@ order: 3
   <div class="tp-card">
     <img src="/assets/tp/charte.png" alt="Charte informatique" onerror="this.style.display='none'">
     <div class="tp-card-title">Charte informatique</div>
+    <div class="tp-card-desc">Rédaction et analyse d'un document juridique définissant les règles d'utilisation des ressources numériques en entreprise, en conformité avec le RGPD.</div>
     <div class="tp-badges">
       <a href="/assets/pdf/cyber-charte.pdf" class="badge badge-pdf">PDF</a>
     </div>
@@ -190,6 +206,7 @@ order: 3
   <div class="tp-card">
     <img src="/assets/tp/acces-privileges.png" alt="Gestion des accès" onerror="this.style.display='none'">
     <div class="tp-card-title">Gestion des accès et privilèges</div>
+    <div class="tp-card-desc">Mise en place d'une politique IAM : contrôle des droits d'accès des utilisateurs, gestion des rôles et principe du moindre privilège pour sécuriser le système d'information.</div>
     <div class="tp-badges">
       <a href="/assets/pdf/cyber-acces-privileges.pdf" class="badge badge-pdf">PDF</a>
     </div>
@@ -198,9 +215,11 @@ order: 3
   <div class="tp-card">
     <img src="/assets/tp/segmentation.png" alt="Segmentation réseau" onerror="this.style.display='none'">
     <div class="tp-card-title">Segmentation réseau</div>
+    <div class="tp-card-desc">Division du réseau en sous-réseaux isolés via des VLANs et pare-feux pour limiter la propagation des attaques et protéger les ressources critiques.</div>
     <div class="tp-badges">
       <a href="/assets/pdf/cyber-segmentation.pdf" class="badge badge-pdf">PDF</a>
     </div>
   </div>
 
 </div>
+
