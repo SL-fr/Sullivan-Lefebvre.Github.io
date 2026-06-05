@@ -5,47 +5,12 @@ order: 3
 ---
 
 <style>
-  .tp-page-title {
-    text-align: center;
-    font-size: 1.3rem;
-    font-weight: bold;
-    margin-bottom: 10px;
-    color: #fff;
-  }
-
-  .tp-nav {
-    display: flex;
-    justify-content: center;
-    gap: 12px;
-    margin-bottom: 30px;
-  }
-
-  .tp-nav a {
-    padding: 8px 22px;
-    border-radius: 20px;
-    font-size: 0.85rem;
-    font-weight: 600;
-    text-decoration: none;
-    border: 2px solid #fff;
-    color: #fff;
-    transition: background 0.2s, color 0.2s;
-  }
-
-  .tp-nav a:hover, .tp-nav a.active {
-    background: #fff;
-    color: #1c1c1e;
-  }
-
-  .tp-section {
-    margin-bottom: 50px;
-  }
-
   .tp-section-title {
     text-align: center;
     font-size: 1rem;
     font-weight: 600;
     color: #aaa;
-    margin: 30px 0 15px;
+    margin: 10px 0 15px;
     text-transform: uppercase;
     letter-spacing: 1px;
   }
@@ -58,6 +23,11 @@ order: 3
     margin: 40px 0 5px;
     padding-top: 20px;
     border-top: 1px solid #333;
+  }
+
+  .tp-category-title:first-of-type {
+    border-top: none;
+    margin-top: 10px;
   }
 
   .tp-grid {
@@ -131,9 +101,8 @@ order: 3
 </style>
 
 <!-- ───────────── TECHNIQUES ───────────── -->
-<div class="tp-category-title">🖥️ Travaux pratiques et techniques</div>
+<div class="tp-category-title">🖥️ Travaux pratiques et techniques – 1ère année</div>
 
-<div class="tp-section-title">1ère année</div>
 <div class="tp-grid">
 
   <div class="tp-card">
@@ -174,7 +143,7 @@ order: 3
     <img src="/assets/tp/glpi.png" alt="GLPI" onerror="this.style.display='none'">
     <div class="tp-card-title">Gestion des incidents / GLPI</div>
     <div class="tp-badges">
-      <a href="/assets/pdf/tp-glpi-1.pdf" class="badge badge-pdf">PDF</a>
+      <a href="/assets/pdf/tp-glpi.pdf" class="badge badge-pdf">PDF</a>
     </div>
   </div>
 
@@ -189,39 +158,9 @@ order: 3
 
 </div>
 
-<div class="tp-section-title">2ème année</div>
-<div class="tp-grid">
-
-  <div class="tp-card">
-    <img src="/assets/tp/glpi.png" alt="GLPI" onerror="this.style.display='none'">
-    <div class="tp-card-title">TP GLPI</div>
-    <div class="tp-badges">
-      <a href="/assets/pdf/tp-glpi-2.pdf" class="badge badge-pdf">PDF</a>
-    </div>
-  </div>
-
-  <div class="tp-card">
-    <img src="/assets/tp/routage.png" alt="Routage statique" onerror="this.style.display='none'">
-    <div class="tp-card-title">Routage statique</div>
-    <div class="tp-badges">
-      <a href="/assets/pdf/tp-routage-statique.pdf" class="badge badge-pdf">PDF</a>
-    </div>
-  </div>
-
-  <div class="tp-card">
-    <img src="/assets/tp/sauvegarde.png" alt="Sauvegarde" onerror="this.style.display='none'">
-    <div class="tp-card-title">Sauvegarde</div>
-    <div class="tp-badges">
-      <a href="/assets/pdf/tp-sauvegarde.pdf" class="badge badge-pdf">PDF</a>
-    </div>
-  </div>
-
-</div>
-
 <!-- ───────────── CYBERSÉCURITÉ ───────────── -->
-<div class="tp-category-title">🛡️ Travaux pratiques de cybersécurité</div>
+<div class="tp-category-title">🛡️ Travaux pratiques de cybersécurité – 1ère année</div>
 
-<div class="tp-section-title">1ère année</div>
 <div class="tp-grid">
 
   <div class="tp-card">
@@ -247,11 +186,6 @@ order: 3
       <a href="/assets/pdf/cyber-charte.pdf" class="badge badge-pdf">PDF</a>
     </div>
   </div>
-
-</div>
-
-<div class="tp-section-title">2ème année</div>
-<div class="tp-grid">
 
   <div class="tp-card">
     <img src="/assets/tp/acces-privileges.png" alt="Gestion des accès" onerror="this.style.display='none'">
